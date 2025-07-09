@@ -1,6 +1,6 @@
 #  Distributed SDN in HAMNET
 
-This project explores the feasibility of deploying **distributed SDN architectures** over **HAMNET** (Highspeed Amateur Radio Multimedia Network) using IP routing protocols like **OSPF**. It compares centralized and distributed SDN setups in terms of resilience, scalability, and routing performance.
+This project (done during the M.Sc.) explores the feasibility of deploying **distributed SDN architectures** over **HAMNET** (Highspeed Amateur Radio Multimedia Network) using IP routing protocols like **OSPF**. It compares centralized and distributed SDN setups in terms of resilience, scalability, and routing performance.
 
 ---
 
